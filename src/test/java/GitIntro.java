@@ -15,7 +15,11 @@ public class GitIntro {
         System.out.println(reversed1);
         
         System.out.println("yes we did it");
-        
+        System.out.println("yes we did it");
+        System.out.println("yes we did it");
+        System.out.println("yes we did it");
+        System.out.println("yes we did it");
+
         
     }
 
