@@ -14,7 +14,14 @@ public class GitIntro {
         System.out.println(reversed1);
         System.out.println(reversed1);
         System.out.println(reversed1);
-       
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
     }
 
 
